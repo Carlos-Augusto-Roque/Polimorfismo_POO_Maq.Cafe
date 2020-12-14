@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Maq.Cafe\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Maq.Cafe.genruntimeconfig.cache
